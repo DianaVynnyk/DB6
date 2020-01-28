@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49451603-832a-47f5-b6bd-afb1fd92d836" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lab6SpringBoot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a782a798-7984-4f57-a32c-0c3b2f0db5e1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a782a798-7984-4f57-a32c-0c3b2f0db5e1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/lab6SpringBoot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/configuration/SwaggerConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/configuration/SwaggerConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/AnalysisController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/AnalysisController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/DiagnosisController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/DiagnosisController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/DoctorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/DoctorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/HabitsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/HabitsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/PatientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/PatientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/RegistrationOfficeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/RegistrationOfficeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/TypeDoctorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/controller/TypeDoctorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Analysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Analysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Diagnosis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Diagnosis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Doctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Habits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Habits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/RegistrationOffice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/RegistrationOffice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/TypeDoctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/model/TypeDoctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/AnalysisRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/AnalysisRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/DiagnosisRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/DiagnosisRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/DoctorRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/DoctorRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/HabitsRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/HabitsRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/PatientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/PatientRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/RegistrationOfficeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/RegistrationOfficeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/TypeDoctorRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/repository/TypeDoctorRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/AnalysisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/AnalysisService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/DiagnosisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/DiagnosisService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/DoctorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/DoctorService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/HabitsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/HabitsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/PatientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/PatientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/RegistrationOfficeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/RegistrationOfficeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/TypeDoctorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/lviv/iot/service/TypeDoctorService.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hospitallab4db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="hospitallab4db: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="analysis: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1U0jlRpuWuVGQm9VDPL7Vbl7Pqd" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.lviv.iot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\lab6SpringBoot\src\main\java\ua\lviv\iot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ua.lviv.iot.Application" />
+      <module name="lab6SpringBoot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ua.lviv.iot.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49451603-832a-47f5-b6bd-afb1fd92d836" name="Default Changelist" comment="" />
+      <created>1574500557995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574500557995</updated>
+      <workItem from="1574500562732" duration="18623000" />
+      <workItem from="1575136664716" duration="1236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
